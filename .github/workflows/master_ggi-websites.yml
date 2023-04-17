@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GGI-Websites'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C89FC0EFE239456C9792675D486A6F36 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0114B2AB3B824CCA8862BD4DA9D9128A }}
           package: .
